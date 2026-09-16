@@ -36,10 +36,22 @@ Je niche verandert niet — lifestyle, fashion, interieur en af en toe gezinslev
 - **Waarom het werkt:** combineert 2 pijlers in 1 post, en een vaste "set" bouwt een visueel wederkerend merk op — mensen herkennen het format nog voor ze de caption lezen, wat saves en herhaalbezoek stimuleert.
 - **Uitbreiding:** noteer er 1 regel bij zoals "outfit à €X" of "waar vind ik dit" — dat soort praktische info scoort goed op saves.
 
-### 3. "Zoontje zegt" (nieuw — gezinsleven, ultralaag effort)
-- **Wanneer:** doorlopend, gebundeld elke vrijdag als Reel of Story-highlight
-- **Format:** korte quotes/uitspraken van je zoontje, tekst-gedreven, jij in beeld met reactie
-- **Waarom het werkt:** kinderquotes zijn extreem deelbaar naar andere ouders, kosten bijna geen productietijd (je verzamelt ze gewoon doorheen de week), en bouwen een emotionele band op zonder dat je meer moet filmen dan je toch al doet.
+### 3. "Zoontje zegt" (nieuw — gezinsleven, ultralaag effort, géén herkenbaar gezicht)
+- **Wanneer:** doorlopend verzamelen, gebundeld elke vrijdag als Reel of Story-highlight
+- **Format:** korte quotes/uitspraken van je zoontje. Jij vertelt de quote in beeld (jouw gezicht, jouw reactie), terwijl hij zelf nergens herkenbaar in beeld komt — zie de sectie hieronder voor hoe je 'm er toch gevoelsmatig bij betrekt.
+- **Waarom het werkt:** kinderquotes zijn extreem deelbaar naar andere ouders, kosten bijna geen productietijd (je verzamelt ze gewoon doorheen de week), en bouwen een emotionele band op zonder dat je meer moet filmen dan je toch al doet — en zonder dat hij herkenbaar in beeld hoeft.
+
+## Zoontje erbij betrekken zonder hem herkenbaar te tonen
+
+Een paar beproefde technieken om het gezinsleven te blijven tonen zonder zijn gezicht:
+- **Jij vertelt, hij is off-screen** — jij in beeld/voice-over, hij komt alleen voor als personage in het verhaal (zoals bij "Zoontje zegt").
+- **Van achter/van boven filmen** — achterkant van zijn hoofd, of vanuit jouw POV zodat je alleen zijn handjes/voetjes/rug in beeld hebt (bv. handjes die iets vasthouden, voetjes in regenlaarzen).
+- **Details in plaats van gezicht** — zijn speelgoed, zijn tekeningen, zijn rommelige kamer, zijn ontbijtbordje — het vertelt evenveel over "gezinsleven" zonder hem te tonen.
+- **Silhouet/tegenlicht** of ver genoeg weg in het beeld dat hij niet herkenbaar is (bv. speeltuinscène van op afstand).
+- **Emoji/sticker over het gezicht** in Stories/Reels als hij toch dichtbij in beeld komt.
+- **Alleen zijn stem** (met toestemming/gepixeld gebruikt) onder een Reel, terwijl jij of neutrale beelden in beeld zijn.
+
+Deze technieken kan je door alle "gezin"-formats hieronder gebruiken, niet alleen bij "Zoontje zegt".
 
 ### 4. "Wat kostte mijn outfit" (nieuw — fashion, praktische waarde)
 - **Wanneer:** 1x per 2 weken, afwisselend met een ander format op woensdag/donderdag
@@ -55,6 +67,33 @@ Je niche verandert niet — lifestyle, fashion, interieur en af en toe gezinslev
 - **Wanneer:** zondagavond
 - **Format:** carousel of rustige Reel over hoe je de week voorbereidt (meal prep, planning, self-care, huishouden) — het lifestyle-anker dat de andere pijlers verbindt
 - **Waarom het werkt:** "Sunday reset"-content presteert consistent goed omdat het aspiratie (rust, organisatie) combineert met herkenbaarheid, en sluit de week af vlak voor de "Deze week ging dit fout" van maandag — mooie caption-haak tussen de twee ("en dan begint het weer 😅").
+
+## Extra formatopties (kies er zoveel je aankan)
+
+Je hoeft niet alle 6 hierboven te doen — dit is een uitgebreide lijst om uit te kiezen, of om na een paar maanden te wisselen als een format uitgeput raakt. Allemaal compatibel met "geen herkenbaar gezicht van je zoontje".
+
+### Fashion
+- **"5 outfits, 1 stuk"** — maandag toon je 1 kledingstuk, en bouw je doorheen de week (Stories) op hoe je het 5x anders combineert; vrijdag een samenvattende Reel/carousel. Sterk voor saves ("hoe combineer ik dit ook alweer").
+- **"Draag ik dit nog?"** — wekelijkse garderobe-check: iets ouds terug opgepikt, gehouden of weggedaan, met reden. Voelt eerlijk/onpolijst, wat nu beter presteert dan gelikte content.
+- **"Try-on eerlijkheidsmoment"** — try-on met eerlijke commentaar over pasvorm/kwaliteit i.p.v. enkel promotie — bouwt vertrouwen op, wat saves en shares aanmoedigt.
+- **"Outfit, budget-versie vs. investeringsversie"** — dezelfde look 2x, 1 betaalbaar en 1 hoger segment. Genereert discussie in comments (ook een rank-signaal).
+
+### Interieur
+- **"1 object, 3 plekken"** — hetzelfde decostuk op 3 verschillende plekken in huis gestyled. Licht qua productie, sterk visueel format.
+- **"Wat kostte deze kamer"** — volledige prijs-transparantie van een ruimte of hoek, opgebouwd doorheen meerdere weken.
+- **"Tweedehands vondst van de week"** — kringloop/vintage-vondst, herkenbaar en shareable binnen de interieur-community.
+- **"Seizoenswissel in 60 seconden"** — kleine seizoensgebonden herstyling (zomer→herfst enz.) van 1 vaste hoek — sluit mooi aan bij "Living Room Look" omdat het dezelfde set hergebruikt.
+
+### Lifestyle (zonder gezin)
+- **"Deze week gelezen/geluisterd/gekeken"** — korte aanbevelingen (boek, podcast, serie), makkelijk te bewaren format.
+- **"Klein geluk van de week"** — 1 rustig, aspirational moment (koffie, licht, wandeling) — contrast met de chaos-content, goed voor merkgevoel.
+- **"Vraag het mij"** — verzamel vragen via een Stories-sticker doorheen de week, beantwoord ze vrijdag in 1 Reel/carousel — genereert automatisch interactie vóór de post zelf al bestaat.
+- **"3 foto's, deze week"** — simpele weekrecap-carousel voor de dagen dat je geen tijd hebt voor een uitgewerkte Reel — houdt de consistentie erin zonder productiedruk.
+
+### Gezinsleven (altijd zonder herkenbaar gezicht)
+- **"Mama-hack van de week"** — praktische tip, gefilmd als close-up op handen/voorwerpen, geen gezicht nodig.
+- **"Kleine mens, grote quotes"** — variant op "Zoontje zegt" maar dan als tekstkaart-carousel in plaats van Reel, voor de weken dat filmen niet lukt.
+- **"Achter de schermen mama-leven"** — candid moment gefilmd van achter, van op afstand, of met focus op de omgeving (rommelige keukentafel, opgehoopte was) in plaats van op hem.
 
 ### Voorbeeld weekritme
 
